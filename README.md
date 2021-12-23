@@ -1,3 +1,4 @@
+用于在railway上进行部署
 # 🐋 Awesome TTRSS
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/wangqiru/ttrss.svg)](https://hub.docker.com/r/wangqiru/ttrss)
